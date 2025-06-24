@@ -13,7 +13,7 @@ A fast-paced, visually stunning browser game where you guide a leaping black pan
 
 ## How to Play
 
-- Click, tap, or press spacebar to make the panther leap
+- Click, tap, or press the spacebar to make the panther leap
 - Avoid hitting the pipes or the ground
 - Try to beat your high score!
 
