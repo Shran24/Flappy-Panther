@@ -30,16 +30,13 @@ A fast-paced, visually stunning browser game where you guide a leaping black pan
 
 ## Play the Game
 
-[Play Flappy Panther](https://YOUR_GITHUB_USERNAME.github.io/flappy-panther/)
+[Play Flappy Panther](https://shran24.github.io/flappy-panther/)
 
 ## Development
 
 To run the game locally:
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/YOUR_USERNAME/flappy-panther.git
-   ```
 2. Open `index.html` in a modern web browser.
 3. Enjoy the game!
 
