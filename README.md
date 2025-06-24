@@ -30,7 +30,7 @@ A fast-paced, visually stunning browser game where you guide a leaping black pan
 
 ## Play the Game
 
-[Play Flappy Panther](https://shran24.github.io/flappy-panther/)
+[Play Flappy Panther](https://flappy-panther.vercel.app/)
 
 ## Development
 
